@@ -50,9 +50,10 @@ I’m always open to new opportunities and collaboration. If you’re working on
    - **Description**: A full-fledged CRUD (Create, Read, Update, Delete) application built using React. Users can manage records easily.
    - **[Live Demo](https://rowanhamdy.github.io/Crud-System/)**
 
-### 3. **Special Design Portfolio**
-   - **Description**: A stylish and responsive portfolio website showcasing my design and frontend development skills.
-   - **[Live Demo](https://rowanhamdy.github.io/SpecialDesgin/)**
+### 3. **Game Review**
+   - **Description**: A platform for reviewing and rating games. Users can submit game reviews and view ratings and feedback from others.
+   - **[Live Demo](https://rowanhamdy.github.io/GameReview/)**
+
 
 ---
 
