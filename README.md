@@ -10,7 +10,7 @@ Hey! I'm **Rowanhamdy**, a passionate **Frontend Developer** with a deep love fo
 ## 🚀 Technologies I Work With:
 
 ### Frontend:
-- **React.js** | **TypeScript** | **JavaScript** | **HTML5** | **CSS3** | **JQuery** | **Bootstrap** |  **npm** | **Node.js**
+- **React.js** | **TypeScript** | **JavaScript** | **HTML5** | **CSS3** | **JQuery** | **Bootstrap** |  **npm** | **Node.js** | **Tailwendcss** | **RESTful API**
 ### AI & ML:
 - **Python** | **PyTorch** | **Scikit-learn** | **TensorFlow**
 - **Machine Learning** | **Deep Learning** | **Computer Vision (CV)** | **Natural Language Processing (NLP)**
